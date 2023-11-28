@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @intenseweb the maintainer of IntenseWebs.
 - Primary Work Repository at: https://code.iweb.city
-- 👀 I’m interested in:
+- I’m interested in:
 -   • System Administrator in multiple Operating Systems and Hardware Platforms in large Datacenters including Azure, VMware, Google Cloud Platform, Cisco ACI/UCS, Amazon AWS, Oracle Cloud, Redhat, Microsoft Windows, Linux, & UNIX servers.
     • Shift Team Lead of large system engineer team. Patch PROD/DR, QA/TEST/UAT and DEV servers. Liaison to owners. Up to one quarter million servers at JPMorgan Chase with team patching and restarting up to 100K servers every week.
     • Build & use MRP/ERP systems. Use ITSM Change Management including ServiceNow, HP Service Manager and BMC Remedy ITSM/ITIL/ITAM for incidents, change and SLA’s.
@@ -12,7 +12,3 @@
 - 💞️ I’m looking to collaborate on AD, FreeIPA, OpenTofu, Ansible and all things server Authentication and Automation
 - 📫 How to reach me ... [IntenseWebs.com](https://www.intensewebs.com/index.php/contact/contact-us)
 
-<!---
-intenseweb/intenseweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
