@@ -1,7 +1,7 @@
 ALL REPOSITORIES RE-INITIALIZED FROM 'master' to 'main' branch during Thanksgiving (Nov. 28, 2023). This means statistics are reset.
 
 - 👋 Hi, I’m @intenseweb the maintainer of IntenseWebs. I maintain repositories for these organizations: IntenseWebs.com, IF.Finance, IWeb.City, NuKVM.org, OilfieldTools Network, Spartan International Drilling, Green Polymer Products & more private domains.
-- My Primary Repository is: ([https://ww.intensewebs.com/index.php/contact/contact-us](https://code.iweb.city/explore/repos))]
+- My Primary Repository is: ([https://code.iweb.city/](https://code.iweb.city/explore/repos))
 - I’m am:
     • System Administrator in multiple Operating Systems and Hardware Platforms in large Datacenters including Azure, VMware, Google Cloud Platform, Cisco ACI/UCS, Amazon AWS, Oracle Cloud, Redhat, Microsoft Windows, Linux, & UNIX servers.
     • Former Shift Team Lead of large system engineer team. Patch PROD/DR, QA/TEST/UAT and DEV servers. Liaison to owners. Up to one quarter million servers at JPMorgan Chase with team patching and restarting up to 100K servers every week.
