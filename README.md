@@ -11,6 +11,6 @@ ALL REPOSITORIES RE-INITIALIZED FROM 'master' to 'main' branch during Thanksgivi
     • Dedicated, enthusiastic team member with organized goals and objectives, good communication skills.
     • Owner & Lead Maintainer of five production Git, Github & Gitea, multi-organization servers with over 40 repositories with CI/CD practices with recent add: (code.iweb.city)
 - 🌱 I’m currently learning ... C and Rust
-- 💞️ I’m looking to collaborate on AD, FreeIPA, OpenTofu, Ansible and all things server Authentication and Automation.
+- 💞️ I’m looking to collaborate on AD, FreeIPA, OpenTofu (TerraForm), Ansible and all things server Authentication and Automation.
 - 📫 How to reach me ... [IntenseWebs.com](https://www.intensewebs.com/index.php/contact/contact-us)
 
