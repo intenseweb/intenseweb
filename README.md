@@ -1,4 +1,4 @@
-ALL REPOSITORIES RE-INITIALIZED FROM 'master' to 'main' branch during Thanksgiving (Nov. 28, 2023). This means statistics are reset.
+ALL REPOSITORIES DELETED & RE-INITIALIZED FROM 'master' to 'main' branch during Thanksgiving (Nov. 28, 2023). This means statistics are reset.
 
 - 👋 Hi, I’m @intenseweb on GitHub or @iw on my my primary repository: ([https://code.iweb.city/](https://code.iweb.city/explore/repos)). I am the maintainer of ([IntenseWebs.com](https://www.intensewebs.com)) and repositories for these organizations: IntenseWebs.com, IF.Finance, IWeb.City, NuKVM.org, OilfieldTools Network, Spartan International Drilling, Green Polymer Products & more private domains.
 - I am a:
